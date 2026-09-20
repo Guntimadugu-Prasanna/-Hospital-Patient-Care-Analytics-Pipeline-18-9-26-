@@ -1,0 +1,221 @@
+consultation_id,patient_id,doctor_id,consultation_date,department,diagnosis_category,risk_level,follow_up_required
+C5001,P1049,D101,2026-06-12,Pediatrics,Routine,Medium,Yes
+C5002,P1016,D115,2026-04-07,Orthopedics,Cardiac Risk,Low,No
+C5003,P1017,D109,2026-02-20,Pediatrics,Diabetes,Low,Yes
+C5004,P1084,D102,2026-03-24,General Medicine,Hypertension,Low,Yes
+C5005,P1087,D107,2026-02-24,Pediatrics,Diabetes,Low,Yes
+C5006,P1098,D110,2026-03-18,General Medicine,Hypertension,Low,No
+C5007,P1075,D104,2026-05-07,Pediatrics,Cardiac Risk,High,Yes
+C5008,P1034,D107,2026-06-21,Pediatrics,Respiratory,Low,No
+C5009,P1033,D108,2026-04-03,Pediatrics,Cardiac Risk,Low,No
+C5010,P1026,D105,2026-03-29,Neurology,Routine,Low,Yes
+C5011,P1066,D113,2026-03-21,Neurology,Cardiac Risk,Low,Yes
+C5012,P1063,D112,2026-06-02,Pediatrics,Hypertension,Medium,No
+C5013,P1087,D112,2026-04-02,General Medicine,Diabetes,Medium,No
+C5014,P1041,D101,2026-02-16,Orthopedics,Respiratory,Medium,No
+C5015,P1086,D104,2026-02-07,Cardiology,Cardiac Risk,Low,No
+C5016,P1058,D110,2026-05-19,Neurology,Cardiac Risk,Low,Yes
+C5017,P1098,D103,2026-01-15,Pediatrics,Diabetes,Medium,Yes
+C5018,P1079,D110,2026-01-01,Cardiology,Respiratory,High,Yes
+C5019,P1010,D115,2026-05-15,Neurology,Infection,Low,No
+C5020,P1015,D112,2026-01-01,Orthopedics,Cardiac Risk,Low,No
+C5021,P1042,D105,2026-02-18,General Medicine,Cardiac Risk,Low,No
+C5022,P1093,D110,2026-04-06,Pediatrics,Infection,Low,Yes
+C5023,P1057,D113,2026-06-06,Orthopedics,Hypertension,Low,Yes
+C5024,P1087,D110,2026-01-26,Neurology,Hypertension,Low,Yes
+C5025,P1017,D113,2026-03-28,Pediatrics,Routine,Medium,No
+C5026,P1060,D106,2026-06-22,Cardiology,Diabetes,Low,Yes
+C5027,P1009,D102,2026-04-03,General Medicine,Respiratory,Low,No
+C5028,P1036,D107,2026-04-12,Neurology,Cardiac Risk,Low,No
+C5029,P1073,D113,2026-03-12,General Medicine,Cardiac Risk,Medium,No
+C5030,P1080,D103,2026-05-20,Pediatrics,Routine,Low,No
+C5031,P1036,D115,2026-04-05,Orthopedics,Cardiac Risk,Medium,No
+C5032,P1048,D101,2026-06-09,General Medicine,Diabetes,Low,No
+C5033,P1051,D110,2026-04-28,Cardiology,Routine,Medium,No
+C5034,P1097,D103,2026-05-28,Neurology,Diabetes,Low,No
+C5035,P1095,D109,2026-04-29,Cardiology,Routine,Low,No
+C5036,P1070,D110,2026-02-20,General Medicine,Cardiac Risk,Low,No
+C5037,P1074,D111,2026-03-22,Orthopedics,Routine,Low,No
+C5038,P1080,D111,2026-02-05,Orthopedics,Hypertension,Low,No
+C5039,P1068,D115,2026-03-08,Cardiology,Respiratory,Medium,No
+C5040,P1022,D106,2026-05-09,Pediatrics,Cardiac Risk,Low,No
+C5041,P1077,D111,2026-04-24,Pediatrics,Infection,Low,Yes
+C5042,P1080,D106,2026-06-04,Orthopedics,Respiratory,Low,Yes
+C5043,P1093,D104,2026-04-21,Cardiology,Cardiac Risk,Medium,No
+C5044,P1006,D115,2026-06-17,Cardiology,Respiratory,High,No
+C5045,P1026,D108,2026-05-22,Cardiology,Hypertension,Medium,No
+C5046,P1075,D105,2026-04-10,General Medicine,Respiratory,Low,No
+C5047,P1088,D107,2026-04-19,Pediatrics,Routine,Medium,No
+C5048,P1093,D109,2026-04-30,Pediatrics,Respiratory,High,No
+C5049,P1003,D113,2026-03-20,General Medicine,Cardiac Risk,Medium,Yes
+C5050,P1052,D113,2026-05-14,Neurology,Infection,Low,No
+C5051,P1074,D114,2026-06-10,General Medicine,Infection,Low,No
+C5052,P1060,D105,2026-01-19,Cardiology,Diabetes,Low,Yes
+C5053,P1063,D111,2026-05-07,General Medicine,Respiratory,Low,No
+C5054,P1065,D114,2026-01-29,Cardiology,Infection,Medium,No
+C5055,P1052,D105,2026-01-24,Orthopedics,Respiratory,Low,Yes
+C5056,P1090,D114,2026-05-31,Cardiology,Infection,Low,Yes
+C5057,P1076,D104,2026-01-10,Pediatrics,Respiratory,Medium,No
+C5058,P1014,D106,2026-04-15,General Medicine,Cardiac Risk,Medium,No
+C5059,P1089,D102,2026-06-18,Cardiology,Respiratory,Low,Yes
+C5060,P1072,D103,2026-06-26,Neurology,Cardiac Risk,Medium,Yes
+C5061,P1068,D101,2026-05-25,Orthopedics,Cardiac Risk,Low,No
+C5062,P1028,D102,2026-06-22,Neurology,Diabetes,High,No
+C5063,P1071,D102,2026-06-07,Neurology,Infection,Medium,No
+C5064,P1010,D108,2026-06-21,Neurology,Routine,Low,Yes
+C5065,P1057,D108,2026-02-24,Orthopedics,Cardiac Risk,Medium,No
+C5066,P1100,D102,2026-05-27,Orthopedics,Infection,High,No
+C5067,P1066,D113,2026-06-06,Orthopedics,Hypertension,Low,Yes
+C5068,P1090,D114,2026-01-02,Orthopedics,Respiratory,Low,No
+C5069,P1050,D106,2026-06-13,Neurology,Hypertension,Medium,No
+C5070,P1014,D115,2026-05-27,Pediatrics,Respiratory,Low,No
+C5071,P1016,D105,2026-05-15,Pediatrics,Diabetes,Low,No
+C5072,P1054,D103,2026-06-03,Orthopedics,Cardiac Risk,High,Yes
+C5073,P1043,D105,2026-04-21,General Medicine,Routine,Medium,No
+C5074,P1042,D105,2026-02-07,Cardiology,Cardiac Risk,Low,No
+C5075,P1081,D105,2026-05-11,General Medicine,Respiratory,Low,No
+C5076,P1022,D103,2026-04-12,General Medicine,Routine,Low,Yes
+C5077,P1068,D115,2026-04-05,General Medicine,Cardiac Risk,Low,No
+C5078,P1019,D103,2026-04-02,Pediatrics,Routine,Low,Yes
+C5079,P1066,D104,2026-03-12,Cardiology,Respiratory,Medium,No
+C5080,P1039,D107,2026-06-20,General Medicine,Diabetes,Low,Yes
+C5081,P1073,D112,2026-01-24,Orthopedics,Diabetes,Low,No
+C5082,P1019,D112,2026-06-16,Pediatrics,Cardiac Risk,Low,Yes
+C5083,P1016,D112,2026-03-09,Orthopedics,Hypertension,High,Yes
+C5084,P1054,D114,2026-05-08,Orthopedics,Respiratory,Low,No
+C5085,P1025,D102,2026-04-03,General Medicine,Cardiac Risk,Low,No
+C5086,P1018,D110,2026-02-13,Orthopedics,Cardiac Risk,Low,No
+C5087,P1023,D104,2026-05-13,Cardiology,Diabetes,Medium,No
+C5088,P1085,D104,2026-02-24,Orthopedics,Routine,Medium,Yes
+C5089,P1011,D101,2026-06-07,General Medicine,Respiratory,Low,No
+C5090,P1039,D110,2026-01-29,Orthopedics,Routine,Low,No
+C5091,P1068,D108,2026-06-03,Pediatrics,Infection,Low,Yes
+C5092,P1025,D101,2026-06-03,Pediatrics,Infection,Low,No
+C5093,P1063,D108,2026-02-06,Pediatrics,Respiratory,Low,No
+C5094,P1096,D107,2026-04-25,Neurology,Hypertension,Low,No
+C5095,P1030,D109,2026-06-30,Pediatrics,Infection,Low,No
+C5096,P1045,D108,2026-06-07,Pediatrics,Diabetes,Low,No
+C5097,P1090,D105,2026-01-03,Neurology,Hypertension,Low,Yes
+C5098,P1061,D108,2026-05-02,Pediatrics,Cardiac Risk,Medium,Yes
+C5099,P1100,D114,2026-02-12,General Medicine,Infection,Low,No
+C5100,P1051,D115,2026-01-07,Pediatrics,Diabetes,Low,Yes
+C5101,P1098,D111,2026-05-05,Pediatrics,Cardiac Risk,Low,Yes
+C5102,P1009,D110,2026-02-18,Neurology,Hypertension,High,No
+C5103,P1076,D112,2026-05-01,General Medicine,Respiratory,High,No
+C5104,P1002,D115,2026-03-14,Orthopedics,Cardiac Risk,Low,Yes
+C5105,P1005,D112,2026-02-10,Cardiology,Routine,Low,No
+C5106,P1062,D103,2026-04-16,General Medicine,Respiratory,Low,No
+C5107,P1069,D115,2026-03-18,Orthopedics,Respiratory,Low,Yes
+C5108,P1052,D110,2026-05-07,General Medicine,Hypertension,Low,No
+C5109,P1086,D107,2026-04-01,Orthopedics,Hypertension,Medium,No
+C5110,P1005,D112,2026-06-04,Orthopedics,Diabetes,Low,No
+C5111,P1059,D104,2026-01-08,General Medicine,Diabetes,High,No
+C5112,P1068,D105,2026-02-01,Neurology,Routine,Low,Yes
+C5113,P1009,D109,2026-03-05,General Medicine,Respiratory,Medium,No
+C5114,P1093,D107,2026-05-18,General Medicine,Routine,Medium,No
+C5115,P1022,D104,2026-01-13,Orthopedics,Routine,Low,No
+C5116,P1027,D106,2026-04-03,Cardiology,Hypertension,Low,No
+C5117,P1010,D110,2026-06-12,Orthopedics,Routine,Low,No
+C5118,P1080,D114,2026-03-02,Pediatrics,Routine,Low,Yes
+C5119,P1061,D111,2026-01-08,General Medicine,Cardiac Risk,Low,Yes
+C5120,P1051,D107,2026-01-29,General Medicine,Diabetes,Medium,Yes
+C5121,P1010,D113,2026-04-05,Neurology,Diabetes,Low,No
+C5122,P1006,D110,2026-02-10,Orthopedics,Respiratory,High,Yes
+C5123,P1062,D113,2026-06-07,Neurology,Diabetes,Low,No
+C5124,P1005,D109,2026-05-29,General Medicine,Infection,High,Yes
+C5125,P1070,D104,2026-01-11,Orthopedics,Respiratory,Low,No
+C5126,P1063,D110,2026-01-02,Orthopedics,Cardiac Risk,Medium,Yes
+C5127,P1056,D103,2026-06-27,Pediatrics,Diabetes,Low,No
+C5128,P1059,D108,2026-06-18,Pediatrics,Cardiac Risk,Low,No
+C5129,P1063,D115,2026-05-11,Cardiology,Diabetes,High,No
+C5130,P1089,D101,2026-03-21,Pediatrics,Diabetes,Low,No
+C5131,P1059,D109,2026-06-28,Orthopedics,Cardiac Risk,Medium,No
+C5132,P1051,D113,2026-03-28,Pediatrics,Routine,Medium,No
+C5133,P1050,D101,2026-06-02,Cardiology,Routine,Low,Yes
+C5134,P1004,D102,2026-06-07,General Medicine,Routine,Low,Yes
+C5135,P1048,D113,2026-04-16,Pediatrics,Infection,Medium,No
+C5136,P1032,D108,2026-05-19,Orthopedics,Routine,Low,No
+C5137,P1051,D109,2026-01-17,General Medicine,Diabetes,Medium,No
+C5138,P1052,D107,2026-06-03,Orthopedics,Hypertension,High,Yes
+C5139,P1099,D103,2026-01-23,General Medicine,Cardiac Risk,Low,No
+C5140,P1074,D107,2026-06-29,Orthopedics,Hypertension,Low,Yes
+C5141,P1034,D106,2026-02-17,Pediatrics,Infection,Medium,Yes
+C5142,P1036,D102,2026-01-20,Pediatrics,Hypertension,Low,Yes
+C5143,P1070,D103,2026-01-02,Cardiology,Respiratory,Low,Yes
+C5144,P1043,D111,2026-03-29,General Medicine,Routine,Low,Yes
+C5145,P1016,D113,2026-01-31,Cardiology,Infection,Low,No
+C5146,P1059,D112,2026-06-04,Neurology,Diabetes,Low,Yes
+C5147,P1053,D113,2026-05-10,Pediatrics,Routine,Low,No
+C5148,P1019,D110,2026-03-19,General Medicine,Routine,Medium,Yes
+C5149,P1098,D110,2026-01-04,Cardiology,Hypertension,Low,No
+C5150,P1089,D113,2026-05-21,Cardiology,Respiratory,Low,No
+C5151,P1095,D112,2026-06-12,Neurology,Routine,High,Yes
+C5152,P1041,D115,2026-05-08,Cardiology,Cardiac Risk,Medium,No
+C5153,P1081,D105,2026-05-14,Orthopedics,Cardiac Risk,Medium,No
+C5154,P1047,D110,2026-01-31,Pediatrics,Routine,Low,No
+C5155,P1094,D104,2026-05-18,Cardiology,Hypertension,Medium,Yes
+C5156,P1054,D102,2026-01-21,Cardiology,Hypertension,Low,No
+C5157,P1055,D104,2026-01-23,Neurology,Diabetes,Low,No
+C5158,P1095,D112,2026-05-11,Orthopedics,Infection,Low,Yes
+C5159,P1019,D108,2026-06-09,Cardiology,Infection,Low,No
+C5160,P1062,D105,2026-05-28,Pediatrics,Infection,Medium,No
+C5161,P1099,D105,2026-01-29,Pediatrics,Respiratory,Low,No
+C5162,P1093,D113,2026-04-15,Cardiology,Hypertension,Medium,No
+C5163,P1059,D112,2026-02-21,Orthopedics,Diabetes,Medium,No
+C5164,P1065,D112,2026-04-25,Pediatrics,Cardiac Risk,Medium,Yes
+C5165,P1068,D110,2026-06-23,Pediatrics,Infection,Low,No
+C5166,P1028,D103,2026-06-11,Orthopedics,Cardiac Risk,Medium,No
+C5167,P1018,D113,2026-04-11,Orthopedics,Cardiac Risk,Low,Yes
+C5168,P1026,D108,2026-03-25,Cardiology,Routine,Low,Yes
+C5169,P1019,D106,2026-03-02,General Medicine,Respiratory,High,Yes
+C5170,P1055,D102,2026-05-05,Neurology,Diabetes,Low,No
+C5171,P1057,D102,2026-03-12,General Medicine,Respiratory,Low,Yes
+C5172,P1006,D109,2026-03-11,General Medicine,Routine,High,No
+C5173,P1001,D113,2026-05-19,Pediatrics,Diabetes,Low,Yes
+C5174,P1008,D107,2026-04-18,Orthopedics,Diabetes,Medium,No
+C5175,P1097,D110,2026-01-21,Pediatrics,Hypertension,Low,No
+C5176,P1051,D109,2026-05-11,Neurology,Respiratory,Low,No
+C5177,P1085,D114,2026-03-23,Cardiology,Respiratory,Low,No
+C5178,P1088,D106,2026-03-29,Neurology,Hypertension,Low,No
+C5179,P1025,D115,2026-04-21,Pediatrics,Cardiac Risk,Low,No
+C5180,P1047,D105,2026-01-10,Pediatrics,Routine,Medium,Yes
+C5181,P1055,D112,2026-06-04,Pediatrics,Respiratory,Low,Yes
+C5182,P1064,D101,2026-01-12,Pediatrics,Hypertension,High,No
+C5183,P1083,D112,2026-01-07,General Medicine,Diabetes,Low,No
+C5184,P1093,D106,2026-05-25,Cardiology,Infection,Low,No
+C5185,P1010,D106,2026-04-24,General Medicine,Hypertension,Medium,Yes
+C5186,P1056,D103,2026-01-26,Pediatrics,Infection,High,Yes
+C5187,P1012,D103,2026-01-15,Orthopedics,Cardiac Risk,Low,Yes
+C5188,P1033,D115,2026-02-02,General Medicine,Routine,Medium,No
+C5189,P1071,D103,2026-03-03,Pediatrics,Infection,High,No
+C5190,P1017,D103,2026-02-16,Pediatrics,Cardiac Risk,Low,No
+C5191,P1061,D107,2026-04-05,Cardiology,Infection,High,No
+C5192,P1010,D110,2026-02-04,Neurology,Diabetes,Low,No
+C5193,P1031,D111,2026-03-17,General Medicine,Diabetes,Medium,No
+C5194,P1060,D102,2026-05-03,General Medicine,Diabetes,High,Yes
+C5195,P1070,D110,2026-03-24,General Medicine,Diabetes,Medium,No
+C5196,P1017,D113,2026-01-25,Pediatrics,Hypertension,Low,Yes
+C5197,P1050,D110,2026-02-26,Cardiology,Diabetes,Low,Yes
+C5198,P1037,D102,2026-02-01,Pediatrics,Diabetes,High,No
+C5199,P1082,D103,2026-03-04,Pediatrics,Hypertension,Low,No
+C5200,P1062,D110,2026-01-12,Orthopedics,Diabetes,Low,No
+C5201,P1090,D112,2026-03-04,Cardiology,Cardiac Risk,Medium,No
+C5202,P1080,D107,2026-03-18,General Medicine,Cardiac Risk,Low,No
+C5203,P1072,D103,2026-04-02,Neurology,Respiratory,Low,No
+C5204,P1088,D107,2026-01-01,General Medicine,Cardiac Risk,Low,No
+C5205,P1077,D109,2026-06-28,Pediatrics,Routine,Low,No
+C5206,P1029,D111,2026-03-11,Cardiology,Routine,Medium,No
+C5207,P1032,D110,2026-05-16,Cardiology,Routine,Medium,Yes
+C5208,P1088,D112,2026-05-13,Cardiology,Hypertension,Low,Yes
+C5209,P1080,D115,2026-03-27,Orthopedics,Cardiac Risk,Medium,No
+C5210,P1011,D111,2026-02-08,General Medicine,Routine,High,Yes
+C5211,P1096,D104,2026-01-23,Orthopedics,Respiratory,Medium,No
+C5212,P1006,D107,2026-03-09,Neurology,Hypertension,Low,Yes
+C5213,P1035,D109,2026-06-29,Pediatrics,Respiratory,Medium,Yes
+C5214,P1033,D114,2026-01-04,Orthopedics,Cardiac Risk,Low,No
+C5215,P1018,D108,2026-05-06,Orthopedics,Diabetes,Medium,No
+C5216,P1037,D108,2026-06-24,Pediatrics,Respiratory,Medium,Yes
+C5217,P1013,D109,2026-01-21,Cardiology,Diabetes,Low,No
+C5218,P1074,D114,2026-04-15,Pediatrics,Hypertension,High,No
+C5219,P1090,D105,2026-03-07,General Medicine,Respiratory,Low,Yes
+C5220,P1081,D114,2026-01-07,Pediatrics,Respiratory,Medium,No

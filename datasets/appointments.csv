@@ -1,0 +1,301 @@
+appointment_id,patient_id,department,appointment_date,scheduled_time,status,waiting_time_minutes
+A2001,P1039,Orthopedics,2026-01-22,10:00,Completed,24
+A2002,P1026,Pediatrics,2026-04-03,10:00,Completed,33
+A2003,P1034,Cardiology,2026-03-17,14:00,Completed,36
+A2004,P1054,Cardiology,2026-06-03,09:00,Completed,40
+A2005,P1003,Cardiology,2026-05-24,09:00,Cancelled,13
+A2006,P1050,Cardiology,2026-06-28,09:00,Cancelled,44
+A2007,P1012,Cardiology,2026-03-27,09:00,Completed,12
+A2008,P1065,Neurology,2026-01-29,09:00,Cancelled,61
+A2009,P1054,Pediatrics,2026-03-10,14:00,Completed,18
+A2010,P1005,Orthopedics,2026-02-16,11:00,Completed,37
+A2011,P1094,Orthopedics,2026-04-04,10:00,Completed,50
+A2012,P1094,Orthopedics,2026-05-24,09:00,Completed,27
+A2013,P1057,Orthopedics,2026-06-25,16:00,Cancelled,38
+A2014,P1017,Neurology,2026-03-26,11:00,Cancelled,58
+A2015,P1047,General Medicine,2026-02-08,11:00,Completed,42
+A2016,P1023,Pediatrics,2026-04-10,10:00,Completed,38
+A2017,P1079,Cardiology,2026-02-02,14:00,Completed,2
+A2018,P1085,General Medicine,2026-04-11,12:00,Completed,15
+A2019,P1014,Orthopedics,2026-01-23,12:00,No Show,51
+A2020,P1066,General Medicine,2026-01-10,11:00,Completed,42
+A2021,P1075,Pediatrics,2026-03-10,15:00,Completed,45
+A2022,P1051,Cardiology,2026-04-10,15:00,Completed,43
+A2023,P1038,Cardiology,2026-02-03,10:00,Completed,55
+A2024,P1064,Pediatrics,2026-06-29,12:00,Completed,27
+A2025,P1098,Pediatrics,2026-05-18,11:00,Completed,34
+A2026,P1038,Orthopedics,2026-05-27,14:00,Completed,13
+A2027,P1050,Cardiology,2026-04-06,12:00,Completed,9
+A2028,P1098,General Medicine,2026-01-01,11:00,No Show,2
+A2029,P1082,Neurology,2026-03-10,11:00,Completed,16
+A2030,P1030,Neurology,2026-01-04,09:00,Completed,60
+A2031,P1079,Pediatrics,2026-01-16,14:00,No Show,4
+A2032,P1091,Orthopedics,2026-01-24,09:00,Completed,27
+A2033,P1051,Neurology,2026-03-21,10:00,No Show,9
+A2034,P1063,Cardiology,2026-01-02,09:00,Completed,21
+A2035,P1098,Pediatrics,2026-05-08,16:00,Completed,35
+A2036,P1052,General Medicine,2026-06-09,09:00,Completed,19
+A2037,P1038,Pediatrics,2026-03-25,16:00,Completed,52
+A2038,P1097,General Medicine,2026-06-01,12:00,Completed,60
+A2039,P1088,Pediatrics,2026-05-20,15:00,Completed,0
+A2040,P1079,Pediatrics,2026-06-27,11:00,Completed,20
+A2041,P1030,Pediatrics,2026-06-12,16:00,Completed,33
+A2042,P1051,General Medicine,2026-05-04,14:00,Completed,52
+A2043,P1081,General Medicine,2026-02-02,09:00,Cancelled,24
+A2044,P1005,Pediatrics,2026-06-10,16:00,No Show,32
+A2045,P1029,Neurology,2026-06-28,14:00,No Show,11
+A2046,P1004,Orthopedics,2026-06-20,15:00,Completed,4
+A2047,P1010,Orthopedics,2026-04-11,15:00,Completed,58
+A2048,P1056,Orthopedics,2026-01-12,09:00,Completed,0
+A2049,P1017,General Medicine,2026-03-08,10:00,Completed,74
+A2050,P1074,General Medicine,2026-03-06,09:00,Completed,45
+A2051,P1017,Neurology,2026-06-10,12:00,Completed,44
+A2052,P1084,Orthopedics,2026-06-17,16:00,Completed,42
+A2053,P1088,Orthopedics,2026-03-15,11:00,Completed,27
+A2054,P1069,Pediatrics,2026-02-12,10:00,Completed,39
+A2055,P1034,General Medicine,2026-02-13,09:00,Completed,29
+A2056,P1006,Orthopedics,2026-01-29,14:00,Completed,42
+A2057,P1053,Neurology,2026-05-21,10:00,No Show,31
+A2058,P1066,Neurology,2026-01-12,16:00,Completed,15
+A2059,P1077,Orthopedics,2026-04-05,10:00,Completed,16
+A2060,P1043,General Medicine,2026-02-15,16:00,Completed,14
+A2061,P1075,Neurology,2026-05-10,09:00,Cancelled,49
+A2062,P1023,Pediatrics,2026-02-04,16:00,Completed,21
+A2063,P1055,Neurology,2026-03-22,10:00,Completed,0
+A2064,P1080,Cardiology,2026-03-31,14:00,Completed,39
+A2065,P1095,Cardiology,2026-01-08,15:00,Completed,59
+A2066,P1075,General Medicine,2026-04-03,10:00,Completed,46
+A2067,P1016,Orthopedics,2026-06-03,16:00,Completed,21
+A2068,P1008,General Medicine,2026-03-31,15:00,No Show,3
+A2069,P1004,General Medicine,2026-06-11,16:00,Completed,30
+A2070,P1004,General Medicine,2026-04-25,14:00,Completed,29
+A2071,P1056,General Medicine,2026-04-15,16:00,No Show,15
+A2072,P1025,Pediatrics,2026-05-15,09:00,Completed,42
+A2073,P1067,Pediatrics,2026-02-27,11:00,Completed,65
+A2074,P1096,Neurology,2026-04-24,10:00,Completed,36
+A2075,P1067,Cardiology,2026-03-16,11:00,Completed,35
+A2076,P1027,General Medicine,2026-06-06,16:00,No Show,15
+A2077,P1093,Neurology,2026-04-30,14:00,Completed,57
+A2078,P1032,Cardiology,2026-06-13,10:00,Cancelled,31
+A2079,P1050,Orthopedics,2026-01-21,16:00,Completed,22
+A2080,P1061,Pediatrics,2026-06-13,15:00,Completed,33
+A2081,P1051,Cardiology,2026-05-18,12:00,Completed,40
+A2082,P1019,Orthopedics,2026-04-11,16:00,Completed,35
+A2083,P1021,Cardiology,2026-06-01,11:00,Completed,54
+A2084,P1005,Pediatrics,2026-06-26,10:00,Cancelled,39
+A2085,P1082,Pediatrics,2026-04-09,11:00,Completed,27
+A2086,P1092,Neurology,2026-02-05,10:00,No Show,39
+A2087,P1042,General Medicine,2026-04-06,16:00,Completed,41
+A2088,P1061,Cardiology,2026-06-01,09:00,Cancelled,9
+A2089,P1022,Cardiology,2026-05-31,15:00,Completed,53
+A2090,P1021,Orthopedics,2026-02-06,16:00,Completed,27
+A2091,P1070,Pediatrics,2026-01-12,11:00,Cancelled,27
+A2092,P1001,Cardiology,2026-04-23,12:00,Completed,46
+A2093,P1005,Pediatrics,2026-01-13,12:00,Completed,45
+A2094,P1012,Cardiology,2026-01-23,14:00,Completed,19
+A2095,P1090,Neurology,2026-04-09,10:00,Completed,46
+A2096,P1046,General Medicine,2026-04-15,11:00,No Show,22
+A2097,P1034,Cardiology,2026-01-30,14:00,Completed,65
+A2098,P1049,Pediatrics,2026-01-17,11:00,Cancelled,17
+A2099,P1078,Neurology,2026-04-23,10:00,Completed,36
+A2100,P1090,Cardiology,2026-03-03,16:00,Completed,18
+A2101,P1045,Orthopedics,2026-03-25,16:00,Completed,72
+A2102,P1027,General Medicine,2026-04-22,12:00,Completed,10
+A2103,P1073,Cardiology,2026-03-27,16:00,Completed,41
+A2104,P1026,Neurology,2026-05-21,16:00,Completed,19
+A2105,P1047,Orthopedics,2026-01-19,09:00,Completed,26
+A2106,P1086,Neurology,2026-06-26,12:00,Completed,40
+A2107,P1056,Neurology,2026-04-10,14:00,Completed,54
+A2108,P1094,Orthopedics,2026-05-20,15:00,Completed,61
+A2109,P1063,Neurology,2026-05-27,09:00,Cancelled,4
+A2110,P1048,Orthopedics,2026-03-17,14:00,Completed,37
+A2111,P1061,Cardiology,2026-01-09,10:00,Completed,58
+A2112,P1081,Orthopedics,2026-01-28,09:00,Completed,2
+A2113,P1026,Orthopedics,2026-05-08,14:00,Completed,38
+A2114,P1036,General Medicine,2026-02-21,10:00,Completed,32
+A2115,P1001,Orthopedics,2026-03-24,12:00,Completed,39
+A2116,P1008,Orthopedics,2026-04-21,15:00,Completed,18
+A2117,P1099,Cardiology,2026-05-24,10:00,Completed,6
+A2118,P1052,General Medicine,2026-04-27,16:00,Completed,0
+A2119,P1079,Pediatrics,2026-03-10,11:00,Cancelled,50
+A2120,P1047,Cardiology,2026-04-09,10:00,Completed,52
+A2121,P1056,Cardiology,2026-05-20,10:00,Completed,37
+A2122,P1086,Pediatrics,2026-01-25,15:00,Completed,22
+A2123,P1014,Orthopedics,2026-06-29,11:00,Completed,3
+A2124,P1090,Neurology,2026-05-03,16:00,Completed,42
+A2125,P1028,General Medicine,2026-02-22,14:00,No Show,12
+A2126,P1087,Neurology,2026-05-31,14:00,Completed,19
+A2127,P1078,Pediatrics,2026-05-24,10:00,Completed,21
+A2128,P1088,Cardiology,2026-02-26,11:00,Completed,28
+A2129,P1002,Cardiology,2026-02-08,11:00,Completed,18
+A2130,P1026,General Medicine,2026-04-19,16:00,Completed,33
+A2131,P1014,Cardiology,2026-06-30,15:00,Completed,21
+A2132,P1059,Cardiology,2026-02-11,12:00,Completed,45
+A2133,P1056,General Medicine,2026-06-16,14:00,Completed,51
+A2134,P1007,General Medicine,2026-05-22,15:00,Completed,34
+A2135,P1003,Pediatrics,2026-05-02,09:00,Completed,40
+A2136,P1023,Cardiology,2026-05-13,14:00,Completed,70
+A2137,P1018,Cardiology,2026-06-12,15:00,Completed,11
+A2138,P1038,Pediatrics,2026-03-16,14:00,Completed,10
+A2139,P1099,Orthopedics,2026-05-26,12:00,Completed,45
+A2140,P1015,Orthopedics,2026-03-17,09:00,Completed,67
+A2141,P1064,Orthopedics,2026-01-09,12:00,Completed,27
+A2142,P1089,Pediatrics,2026-03-15,16:00,Cancelled,63
+A2143,P1028,Cardiology,2026-05-25,09:00,Completed,34
+A2144,P1074,Pediatrics,2026-01-07,10:00,Completed,20
+A2145,P1039,Pediatrics,2026-06-23,15:00,Completed,14
+A2146,P1057,Orthopedics,2026-05-21,09:00,Completed,43
+A2147,P1017,Neurology,2026-06-17,16:00,Completed,16
+A2148,P1086,Cardiology,2026-06-19,16:00,Completed,33
+A2149,P1090,Orthopedics,2026-05-17,12:00,No Show,61
+A2150,P1044,Neurology,2026-06-27,14:00,Completed,26
+A2151,P1025,Neurology,2026-01-27,09:00,Completed,56
+A2152,P1017,General Medicine,2026-05-02,15:00,Completed,10
+A2153,P1013,Cardiology,2026-01-05,09:00,Cancelled,22
+A2154,P1084,Neurology,2026-01-29,11:00,Completed,7
+A2155,P1025,Orthopedics,2026-06-14,14:00,Cancelled,33
+A2156,P1068,General Medicine,2026-06-15,15:00,Completed,46
+A2157,P1010,Cardiology,2026-03-24,15:00,Cancelled,33
+A2158,P1067,Pediatrics,2026-05-16,10:00,Completed,54
+A2159,P1018,Orthopedics,2026-04-19,12:00,Cancelled,19
+A2160,P1100,Neurology,2026-03-06,10:00,Completed,36
+A2161,P1086,Neurology,2026-03-27,15:00,Cancelled,23
+A2162,P1034,Orthopedics,2026-05-25,14:00,Completed,39
+A2163,P1008,Neurology,2026-03-12,09:00,Completed,41
+A2164,P1040,General Medicine,2026-02-14,09:00,Completed,42
+A2165,P1083,Cardiology,2026-05-12,14:00,Completed,13
+A2166,P1042,General Medicine,2026-02-05,15:00,Completed,16
+A2167,P1041,Neurology,2026-03-11,16:00,Completed,19
+A2168,P1006,Pediatrics,2026-06-08,09:00,Completed,28
+A2169,P1052,Cardiology,2026-01-19,16:00,Completed,34
+A2170,P1026,Cardiology,2026-04-18,09:00,Cancelled,45
+A2171,P1064,Orthopedics,2026-06-16,09:00,Completed,17
+A2172,P1098,Orthopedics,2026-04-01,12:00,No Show,3
+A2173,P1059,Pediatrics,2026-03-31,12:00,Completed,71
+A2174,P1056,Cardiology,2026-01-19,11:00,Completed,12
+A2175,P1059,Pediatrics,2026-02-08,10:00,Cancelled,47
+A2176,P1070,Orthopedics,2026-05-06,14:00,Completed,33
+A2177,P1033,Orthopedics,2026-06-22,14:00,Completed,37
+A2178,P1053,Cardiology,2026-05-21,14:00,Completed,32
+A2179,P1022,General Medicine,2026-05-06,11:00,Completed,25
+A2180,P1021,Neurology,2026-02-27,12:00,Completed,40
+A2181,P1070,Orthopedics,2026-05-28,15:00,No Show,24
+A2182,P1070,Orthopedics,2026-03-02,16:00,No Show,53
+A2183,P1004,General Medicine,2026-05-07,16:00,Completed,42
+A2184,P1094,General Medicine,2026-04-15,15:00,Completed,43
+A2185,P1075,Pediatrics,2026-06-16,11:00,Completed,23
+A2186,P1062,Pediatrics,2026-01-01,15:00,Completed,28
+A2187,P1062,Neurology,2026-05-11,14:00,Completed,11
+A2188,P1094,Neurology,2026-04-02,10:00,Completed,26
+A2189,P1095,Cardiology,2026-04-23,09:00,Completed,13
+A2190,P1024,Pediatrics,2026-06-02,16:00,Cancelled,56
+A2191,P1055,Orthopedics,2026-02-25,12:00,Completed,33
+A2192,P1009,Pediatrics,2026-06-10,12:00,Completed,35
+A2193,P1003,Orthopedics,2026-06-15,11:00,Completed,28
+A2194,P1031,General Medicine,2026-04-27,12:00,Completed,36
+A2195,P1040,Pediatrics,2026-05-14,14:00,Completed,76
+A2196,P1036,General Medicine,2026-02-27,16:00,No Show,27
+A2197,P1024,Neurology,2026-02-13,15:00,Completed,20
+A2198,P1095,Neurology,2026-06-22,14:00,Cancelled,42
+A2199,P1006,Cardiology,2026-06-09,11:00,Completed,0
+A2200,P1066,Pediatrics,2026-06-22,14:00,Completed,33
+A2201,P1084,General Medicine,2026-03-02,15:00,Completed,25
+A2202,P1092,Orthopedics,2026-02-16,10:00,Completed,14
+A2203,P1075,Neurology,2026-05-29,11:00,Cancelled,41
+A2204,P1004,Neurology,2026-03-21,10:00,No Show,33
+A2205,P1079,Orthopedics,2026-04-28,09:00,Completed,0
+A2206,P1006,General Medicine,2026-06-13,10:00,Completed,20
+A2207,P1094,General Medicine,2026-05-27,09:00,Completed,0
+A2208,P1051,Pediatrics,2026-01-20,09:00,No Show,37
+A2209,P1062,Pediatrics,2026-05-26,10:00,Completed,37
+A2210,P1057,Cardiology,2026-02-16,11:00,Completed,18
+A2211,P1066,Neurology,2026-02-18,15:00,Completed,42
+A2212,P1079,Pediatrics,2026-01-14,14:00,Completed,9
+A2213,P1075,General Medicine,2026-05-23,14:00,Completed,15
+A2214,P1008,Orthopedics,2026-06-08,15:00,Completed,40
+A2215,P1026,General Medicine,2026-01-01,16:00,No Show,20
+A2216,P1051,Neurology,2026-04-27,16:00,Completed,31
+A2217,P1045,General Medicine,2026-02-23,09:00,Completed,22
+A2218,P1044,Cardiology,2026-04-28,09:00,No Show,25
+A2219,P1005,Neurology,2026-01-03,11:00,Completed,25
+A2220,P1070,Orthopedics,2026-05-24,12:00,Cancelled,19
+A2221,P1026,Cardiology,2026-01-12,10:00,Completed,37
+A2222,P1068,Neurology,2026-03-15,09:00,Completed,21
+A2223,P1019,Orthopedics,2026-01-16,14:00,Cancelled,32
+A2224,P1084,Cardiology,2026-04-12,11:00,Completed,19
+A2225,P1097,Cardiology,2026-06-01,10:00,Completed,4
+A2226,P1020,Neurology,2026-06-05,11:00,Completed,48
+A2227,P1012,Pediatrics,2026-04-27,10:00,Completed,41
+A2228,P1047,Cardiology,2026-01-08,10:00,Completed,73
+A2229,P1001,Cardiology,2026-05-02,15:00,Completed,13
+A2230,P1090,Orthopedics,2026-04-02,09:00,No Show,28
+A2231,P1014,General Medicine,2026-06-13,11:00,Completed,30
+A2232,P1064,Neurology,2026-03-31,11:00,Completed,50
+A2233,P1038,Neurology,2026-05-16,15:00,Completed,23
+A2234,P1037,Pediatrics,2026-03-01,14:00,Completed,11
+A2235,P1011,Pediatrics,2026-06-27,14:00,Completed,54
+A2236,P1100,Neurology,2026-01-28,16:00,No Show,26
+A2237,P1077,Pediatrics,2026-04-11,09:00,Completed,48
+A2238,P1003,Orthopedics,2026-02-10,09:00,Completed,46
+A2239,P1033,Neurology,2026-06-04,12:00,Completed,31
+A2240,P1006,Pediatrics,2026-05-25,15:00,Completed,29
+A2241,P1050,Neurology,2026-06-10,14:00,Completed,25
+A2242,P1010,General Medicine,2026-06-06,10:00,Completed,32
+A2243,P1005,Cardiology,2026-05-21,11:00,Cancelled,48
+A2244,P1023,Neurology,2026-02-15,09:00,Completed,18
+A2245,P1010,Cardiology,2026-02-04,11:00,Completed,34
+A2246,P1044,Pediatrics,2026-05-14,11:00,Completed,12
+A2247,P1002,Cardiology,2026-03-23,12:00,Completed,14
+A2248,P1013,Neurology,2026-04-25,14:00,Completed,31
+A2249,P1040,General Medicine,2026-02-16,09:00,Completed,0
+A2250,P1002,Pediatrics,2026-06-02,11:00,Completed,69
+A2251,P1084,Neurology,2026-01-10,09:00,Completed,11
+A2252,P1065,Pediatrics,2026-02-25,10:00,Completed,31
+A2253,P1063,Orthopedics,2026-01-30,12:00,Completed,53
+A2254,P1073,Cardiology,2026-04-19,10:00,Cancelled,16
+A2255,P1017,Orthopedics,2026-01-05,09:00,Cancelled,0
+A2256,P1009,Neurology,2026-04-29,16:00,Completed,24
+A2257,P1075,General Medicine,2026-02-02,09:00,Cancelled,16
+A2258,P1015,Pediatrics,2026-04-28,14:00,Completed,0
+A2259,P1024,Cardiology,2026-03-06,11:00,Completed,37
+A2260,P1038,Pediatrics,2026-05-26,11:00,Completed,36
+A2261,P1035,Neurology,2026-06-26,10:00,Completed,53
+A2262,P1094,Pediatrics,2026-01-11,12:00,Completed,12
+A2263,P1095,Cardiology,2026-03-26,16:00,No Show,3
+A2264,P1049,Neurology,2026-01-26,15:00,Completed,25
+A2265,P1069,Pediatrics,2026-03-04,11:00,Completed,30
+A2266,P1062,General Medicine,2026-03-27,14:00,Completed,49
+A2267,P1060,Neurology,2026-02-28,10:00,No Show,57
+A2268,P1050,Neurology,2026-01-27,10:00,Completed,54
+A2269,P1078,General Medicine,2026-06-26,15:00,Completed,37
+A2270,P1075,Orthopedics,2026-06-10,14:00,Completed,46
+A2271,P1009,Cardiology,2026-04-08,12:00,Completed,20
+A2272,P1034,Orthopedics,2026-04-15,14:00,No Show,35
+A2273,P1076,Pediatrics,2026-04-09,12:00,No Show,11
+A2274,P1099,General Medicine,2026-05-09,14:00,Completed,33
+A2275,P1035,Orthopedics,2026-05-29,14:00,No Show,34
+A2276,P1001,Neurology,2026-02-24,09:00,Completed,63
+A2277,P1040,Pediatrics,2026-01-06,10:00,Cancelled,28
+A2278,P1064,Pediatrics,2026-04-05,14:00,Completed,34
+A2279,P1022,Orthopedics,2026-05-13,15:00,Completed,36
+A2280,P1060,Orthopedics,2026-04-12,14:00,Completed,24
+A2281,P1064,General Medicine,2026-01-03,11:00,Completed,18
+A2282,P1093,Cardiology,2026-06-30,10:00,Completed,55
+A2283,P1072,Orthopedics,2026-01-23,11:00,Completed,14
+A2284,P1011,Orthopedics,2026-02-22,10:00,Completed,8
+A2285,P1014,Neurology,2026-06-14,11:00,Completed,44
+A2286,P1060,Pediatrics,2026-03-24,14:00,Completed,53
+A2287,P1030,Cardiology,2026-05-25,14:00,Completed,24
+A2288,P1035,Neurology,2026-03-26,09:00,No Show,24
+A2289,P1085,General Medicine,2026-03-19,15:00,Completed,37
+A2290,P1037,General Medicine,2026-04-20,11:00,Completed,19
+A2291,P1005,Orthopedics,2026-01-01,12:00,Completed,18
+A2292,P1083,Orthopedics,2026-02-20,09:00,Cancelled,48
+A2293,P1078,General Medicine,2026-06-22,11:00,Completed,43
+A2294,P1026,Orthopedics,2026-01-04,11:00,Completed,56
+A2295,P1062,Cardiology,2026-04-23,09:00,Cancelled,9
+A2296,P1004,Orthopedics,2026-02-01,14:00,No Show,23
+A2297,P1089,Pediatrics,2026-02-03,11:00,Completed,37
+A2298,P1042,Orthopedics,2026-04-02,14:00,Completed,15
+A2299,P1089,Neurology,2026-04-05,09:00,Completed,44
+A2300,P1018,Cardiology,2026-03-13,14:00,Cancelled,54
