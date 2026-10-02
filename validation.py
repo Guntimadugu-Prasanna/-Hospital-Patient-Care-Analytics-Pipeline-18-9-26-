@@ -91,3 +91,4 @@ def validate_data(
 # Assertions are used to stop the pipeline if an important validation rule fails.
 
 # This improves data quality and prevents unreliable data from reaching the database.
+.............
